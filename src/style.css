@@ -1,0 +1,172 @@
+/* Use Font Style: HU The Game */
+@font-face {
+    font-family: 'HU The Game';
+    src: local('HU The Game'), url(./fonts/hu_the_game/HU\ The\ Game.ttf) format('truetype');
+  }
+  
+  @font-face {
+      font-family: 'HU The Game';
+      font-weight: 900;
+      src: local('HU The Game'), url(./fonts/hu_the_game/HU\ The\ Game\ Cyrillic.ttf) format('truetype');
+  }
+  
+  @font-face {
+      font-family: 'HU The Game';
+      font-weight: 900;
+      src: local('HU The Game'), url(./fonts/hu_the_game/HU\ The\ Game\ Greek.ttf) format('truetype');
+  }
+
+
+/* The whole website page */
+body{
+    background-color: #ffffff;
+    font-weight: 400;
+    font-style: normal;
+    font-size: xx-large;
+    overflow-x: hidden; /* Hide horizontal scrollbar */
+}
+
+
+
+/*Main section*/
+
+.MainNavbar{
+    font-family: HU The Game, Greek;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 100px;
+    margin-right: 100px;
+    
+    position: sticky;
+    top: 0;
+}  
+.MainNavbar a{
+    /* color: #817383; */
+    color: #0E0F17;
+}  
+.MainNavbar a:hover {
+    color: #C2CDEB;
+}
+.MainNavbar a:focus {
+    color: #0E0F17;
+}
+
+.MiniMainNavbar {
+    font-family: 'HU The Game', Greek;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 100px;
+    margin-right: 100px;
+}
+.MiniMainNavbar a {
+    /* color: #0E0F17; */
+    color: #817383;
+}
+.MiniMainNavbar a:hover {
+    color: #C2CDEB;
+}
+.MiniMainNavbar a:focus {
+    /* color: #817383; */
+    color: #0E0F17;
+}
+
+
+/*About section*/
+.Youtube{
+    /* padding-top: 50px; */
+    /* padding-bottom: 50px; */
+    margin-top: 0px;
+    margin-bottom: 100px;
+}
+.About{
+    font-family: HU The Game, Cyrillic;
+    font-size: large;
+    color: #817383;
+    line-height: 1.8;
+    padding-top: 50px;
+}
+.AboutParagraph{
+    font-family: HU The Game, Cyrillic;
+    font-size: large;
+    /* color: #60535C; */
+    color: #817383;
+    line-height: 2;
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+
+
+/* Story section */
+.Story{
+    font-family: HU The Game, Cyrillic;
+    font-size: large;
+    color: #817383;
+    line-height: 2;
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+
+/* GameplayFeatures section */
+.GameplayFeatures{
+    font-family: HU The Game, Cyrillic;
+    font-size: large;
+    color: #817383;
+    line-height: 1.8;
+    padding-top: 50px;
+}
+.GameplayFeaturesP{
+    font-family: HU The Game, Cyrillic;
+    font-size: large;
+    color: #817383;
+    line-height: 1.8;
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+.GameplayFeaturesPEnd{
+    font-family: HU The Game, Cyrillic;
+    font-size: large;
+    color: #817383;
+    line-height: 1.8;
+    padding-top: 15px;
+    padding-bottom: 100px;
+}
+
+/* The Dev Team section */
+.TheDevTeam{
+    font-family: HU The Game, Cyrillic;
+    font-size: large;
+    color: #817383;
+    line-height: 2;
+    padding-bottom: 100px;
+}
+
+
+
+/*SideBarNavigation section*/
+.NavigationMain{
+    font-family: HU The Game, Greek;
+    font-size: large;
+    color: #ffffff;
+    padding-top: 30px;
+    background-color: #0E0F17;
+    position: fixed;
+}
+.navbarcontainer{
+    padding-right: 0px;
+}
+.AndrewParagraph{
+    margin-bottom: auto;
+}
+
+
+
+/* FAQ section */
+.FAQ{
+    font-family: HU The Game, Cyrillic;
+    font-size: xx-large;
+    color: #817383;
+    line-height: 1.8;
+    /* padding-top: 50px; */
+    padding-bottom: 50px;
+}
+
