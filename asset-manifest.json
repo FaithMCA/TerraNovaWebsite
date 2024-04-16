@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/TerraNovaWebsite/static/css/main.0db4e1f3.css",
+    "main.js": "/TerraNovaWebsite/static/js/main.b5ec69de.js",
+    "static/media/8bit16bitgraphics.gif": "/TerraNovaWebsite/static/media/8bit16bitgraphics.8c5c17cb2a52e70dbc4b.gif",
+    "static/media/dynamicbattlesystem.gif": "/TerraNovaWebsite/static/media/dynamicbattlesystem.cad4aab779c32f177b23.gif",
+    "static/media/MalliaHEROIMGlegend1.png": "/TerraNovaWebsite/static/media/MalliaHEROIMGlegend1.c5c0ebbcff51a9b6dcb8.png",
+    "static/media/DualScenarioSystem.png": "/TerraNovaWebsite/static/media/DualScenarioSystem.f6ce8f95c64caea28152.png",
+    "static/media/ClassChangeSystem.png": "/TerraNovaWebsite/static/media/ClassChangeSystem.e3fb8ff4f5e865591ae4.png",
+    "static/media/GraphicsFilters.png": "/TerraNovaWebsite/static/media/GraphicsFilters.53bcecc8c441a30bb799.png",
+    "static/media/MonstersGalore.png": "/TerraNovaWebsite/static/media/MonstersGalore.8c9939d4d48fe0eee7ca.png",
+    "static/media/Palette.png": "/TerraNovaWebsite/static/media/Palette.eed4a0782e7ec4b2ec36.png",
+    "static/media/TheDevTeam2.png": "/TerraNovaWebsite/static/media/TheDevTeam2.bd76a82e8f8438ba9dc6.png",
+    "static/media/HU The Game.ttf": "/TerraNovaWebsite/static/media/HU The Game.82b96473858735749cf8.ttf",
+    "static/media/devandrewpfp.png": "/TerraNovaWebsite/static/media/devandrewpfp.4186d2bc5fc7cb89b87a.png",
+    "static/media/HU The Game Cyrillic.ttf": "/TerraNovaWebsite/static/media/HU The Game Cyrillic.d0ab4407ac91244adc40.ttf",
+    "static/media/HU The Game Greek.ttf": "/TerraNovaWebsite/static/media/HU The Game Greek.5bda84716c970f42e60d.ttf",
+    "static/media/TheDevTeam.png": "/TerraNovaWebsite/static/media/TheDevTeam.4ae998b635f94de91871.png",
+    "static/media/Overview.png": "/TerraNovaWebsite/static/media/Overview.81364a2a6b9aacb5d16a.png",
+    "static/media/Story.png": "/TerraNovaWebsite/static/media/Story.e29134dd8ce2dd38e224.png",
+    "static/media/GameplayandFeatures.png": "/TerraNovaWebsite/static/media/GameplayandFeatures.259740420d5a32deeb5a.png",
+    "index.html": "/TerraNovaWebsite/index.html",
+    "main.0db4e1f3.css.map": "/TerraNovaWebsite/static/css/main.0db4e1f3.css.map",
+    "main.b5ec69de.js.map": "/TerraNovaWebsite/static/js/main.b5ec69de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0db4e1f3.css",
+    "static/js/main.b5ec69de.js"
+  ]
+}
